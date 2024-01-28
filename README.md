@@ -27,11 +27,6 @@ More compact version:<br>
 ### 📈 Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
 
-### 📈 3.5. Themes
-To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. Here's how to apply __dark__ theme to our example on GitHub stats:<br>
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
-
-
 
 <a name="connect-with-me" align="center"></a>
 ## ☎️ 4. Connect with me section
