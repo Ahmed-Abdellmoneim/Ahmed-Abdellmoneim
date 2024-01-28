@@ -1,18 +1,11 @@
 # Hi there :)
 
+<a name="connect-with-me" align="center"></a>
+## ☎️ 4. Connect with me section
 
-## 👉 0. Contents
-[👽 1. About me section](#about-me)<br>
-[📈 3. GitHub README stats](#github-stats)<br>
-[☎️ 4. Connect with me section](#connect-with-me)<br>
-[🛠️ 5. Languages and tools](#languages-and-tools)<br>
-[📁 6. Organise](#organise)<br>
-[📚 7. Other additional resources](#additional-resources)<br>
-
-<a name="about-me"></a>
-## 👽  1. About me section
-Sample prompt:
-### Hi there 👋
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand) 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) 
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) 
 
 
 
@@ -26,14 +19,6 @@ More compact version:<br>
 
 ### 📈 Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
-
-
-<a name="connect-with-me" align="center"></a>
-## ☎️ 4. Connect with me section
-
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand) 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) 
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) 
 
 
 <a name="languages-and-tools"></a>
@@ -77,7 +62,6 @@ More compact version:<br>
         </tr>
     </tbody>
 </table>
-
 
 
 <h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
