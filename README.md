@@ -53,9 +53,6 @@
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
         </tr>
-        <tr valign="top">
-            <!-- Add more rows for additional languages if needed -->
-        </tr>
     </tbody>
 </table>
 
