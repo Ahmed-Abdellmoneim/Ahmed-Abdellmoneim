@@ -46,13 +46,13 @@
     </tbody>
 </table>
 
-<a name="github-stats" align="center"></a>
+<a name="github-stats"></a>
 
 ### 📈 Most used languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
 
 ### 📈 Total contributions and streaks
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
 
 
-<h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
+<h2 align="center">⭐ :) ⭐</h2> 
