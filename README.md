@@ -1,5 +1,5 @@
 <a name="connect-with-me"></a>
-  ## ☎️ Connect with me section
+## ☎️ Connect with me section
 <div align="center">
   
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-abdellmoneim)
@@ -51,13 +51,19 @@
 
 <a name="github-stats"></a>
 
-### 📈 Most used languages
+<div align="center">
+  ### 📈 Most used languages
+</div>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
   
 </div>
 
+<div align="center">
 ### 📈 Total contributions and streaks
+</div>
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
   
