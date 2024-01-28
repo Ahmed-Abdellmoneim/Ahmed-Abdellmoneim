@@ -18,7 +18,7 @@
             </td>
             <td width="80px" align="center">
                 <span><strong>C++</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg">
+                <img height="32px" src="https://github.com/Ahmed-Abdellmoneim/Ahmed-Abdellmoneim/blob/main/icons8-c%2B%2B.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>C#</strong></span><br>
