@@ -1,5 +1,3 @@
-# Hi there :)
-
 <a name="connect-with-me" align="center"></a>
 ## ☎️ 4. Connect with me section
 
