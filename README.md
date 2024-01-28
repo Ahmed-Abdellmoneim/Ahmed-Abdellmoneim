@@ -2,9 +2,9 @@
 ## ☎️ Connect with me
 <div align="center">
 
+  [![](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail)](mailto:ahmed.abdellmoneim@gmail.com)
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abdellmoneim/)
   [![](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ahmed_Abdelmoneim)
-  [![](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail)](mailto:ahmed.abdellmoneim@gmail.com)
 </div>
 
 
