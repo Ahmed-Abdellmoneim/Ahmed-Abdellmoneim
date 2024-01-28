@@ -82,35 +82,9 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
     </tbody>
 </table>
 
-### ☎️  4.4. Additional resources
-- [ ] [Shields.io](https://shields.io/)
-- [ ] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
-- [ ] [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
-- [ ] [Iconfinder](https://www.iconfinder.com/)
-- [ ] [VectorLogoZone](https://www.vectorlogo.zone/index.html)
-- [ ] [Simple Icons](https://simpleicons.org/)
-- [ ] [Devicon](https://devicon.dev/)
-
----
 
 <a name="languages-and-tools"></a>
 ## 🛠️ 5. Languages and tools
-
-### 🛠️ 5.1. Inspiration 1
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-
-### 🛠️ 5.2. Inspiration 2
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-
-### 🛠️ 5.3. Inspiration 3
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -151,35 +125,6 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
     </tbody>
 </table>
 
-### 🛠️ 5.4. Additional resources
-Same as section ☎️ 4.4.
-
----
-
-<a name="organise"></a>
-## 📁 6. Collapsible sections
-<details>
-    <summary><b>✨About Me</b></summary>
-    Sample text
-</details>
-
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary>
-    Sample text
-</details>
-
-To embed images inside a collapsible section, need to use the HTML approach:
-
-<details>
-    <summary><b>🎁 Open me (Markdown approach) </b></summary>
-    ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
-</details>
-<details>
-    <summary><b>🎁 Open me (HTML approach) </b></summary>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
-</details>
-
----
 
 
 <h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
