@@ -7,8 +7,6 @@
   [![](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ahmed_Abdelmoneim)
 </div>
 
-
-
 <a name="languages-and-tools"></a>
 ## 🛠️ Languages and tools
 <table width="400px" align="center">
@@ -54,7 +52,6 @@
 
 
 <a name="github-stats"></a>
-
 ### 📈 Most used languages
 
 <div align="center">
