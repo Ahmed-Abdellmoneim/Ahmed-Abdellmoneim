@@ -2,7 +2,7 @@
 ## ☎️ Connect with me section
 <div align="center">
   
-  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-abdellmoneim)
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/ahmed-abdellmoneim](https://www.linkedin.com/in/ahmed-abdellmoneim/))
   [![](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ahmed_Abdelmoneim)
 </div>
 
