@@ -85,7 +85,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 <a name="languages-and-tools"></a>
 ## 🛠️ 5. Languages and tools
-<table width="320px">
+<table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
