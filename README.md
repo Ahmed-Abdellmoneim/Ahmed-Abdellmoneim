@@ -54,7 +54,6 @@
             </td>
         </tr>
         <tr valign="top">
-            
             <!-- Add more rows for additional languages if needed -->
         </tr>
     </tbody>
