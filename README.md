@@ -1,9 +1,11 @@
 <a name="connect-with-me" align="center"></a>
-## ☎️ 4. Connect with me section
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-abdellmoneim) 
+## ☎️ Connect with me section
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-abdellmoneim)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ahmed_Abdelmoneim)
+
 
 <a name="languages-and-tools"></a>
-## 🛠️ 5. Languages and tools
+## 🛠️ Languages and tools
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
@@ -51,9 +53,6 @@
 
 ### 📈 Total contributions and streaks
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
-
-
-
 
 
 <h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
