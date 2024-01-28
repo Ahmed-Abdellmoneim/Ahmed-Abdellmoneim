@@ -23,8 +23,8 @@
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>Java</strong></span><br>
-                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+                <span><strong>C#</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>HTML</strong></span><br>
@@ -52,16 +52,9 @@
                 <span><strong>Canva</strong></span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
-            <td width="80px" align="center">
-                <span><strong>C#</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-            </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
-                <span><strong>JavaScript</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
+            
             <!-- Add more rows for additional languages if needed -->
         </tr>
     </tbody>
