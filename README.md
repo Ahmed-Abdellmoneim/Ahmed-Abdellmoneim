@@ -52,7 +52,10 @@
 <a name="github-stats"></a>
 
 ### 📈 Most used languages
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
+  
+</div>
 
 ### 📈 Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
