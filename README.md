@@ -1,11 +1,8 @@
 # Hi there :)
-<a href="https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05">
-    <img src="https://img.shields.io/badge/READ ON MEDIUM-12100E?logo=medium&color=000&logoColor=white" />
-</a>
+
 
 ## 👉 0. Contents
 [👽 1. About me section](#about-me)<br>
-[🎨 2. Images](#images)<br>
 [📈 3. GitHub README stats](#github-stats)<br>
 [☎️ 4. Connect with me section](#connect-with-me)<br>
 [🛠️ 5. Languages and tools](#languages-and-tools)<br>
@@ -21,29 +18,6 @@ Sample prompt:
 ### 👽 1.1. Additional resources
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
----
-<a name="images"></a>
-## 🎨 2. Images
-There are two ways to embed an image:
-* HTML approach: `<img src="<url>"/>`
-* Markdown approach: `![](<url>)`
-
-### 🎨 2.1. Sample image
-<img height=400 src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/><br>
-<a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
-
-### 🎨 2.2. Sample banner
-<img height=250 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
-
-### 🎨 2.3. Sample gif
-![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
-
-### 🎨 2.4. Additional resources
-- [ ] [Canva](https://www.canva.com/), [Excalidraw](https://excalidraw.com/) or [draw.io](https://excalidraw.com/)
-- [ ] [Unsplash](https://unsplash.com/) 
-- [ ] [Giphy](https://www.canva.com/) or [Tenor](https://tenor.com/)
-
----
 
 <a name="github-stats"></a>
 ## 📈 3. GitHub README stats
