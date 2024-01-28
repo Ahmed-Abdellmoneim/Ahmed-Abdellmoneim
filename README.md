@@ -17,23 +17,15 @@ Sample prompt:
 
 
 <a name="github-stats"></a>
-## 📈 3. GitHub README stats
-To customise the following summaries for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display.
 
-### 📈 3.1. GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
-
-### 📈 3.2. Most used languages
+### 📈 Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim"/>
 
 More compact version:<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
 
-### 📈 3.3. Total contributions and streaks
+### 📈 Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
-
-### 📈 3.4. GitHub repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Abdellmoneim&repo=github_profile"/>
 
 ### 📈 3.5. Themes
 To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. Here's how to apply __dark__ theme to our example on GitHub stats:<br>
