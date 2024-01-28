@@ -15,9 +15,6 @@ Sample prompt:
 ### Hi there 👋
 
 
-### 👽 1.1. Additional resources
-- [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-
 
 <a name="github-stats"></a>
 ## 📈 3. GitHub README stats
@@ -184,14 +181,5 @@ To embed images inside a collapsible section, need to use the HTML approach:
 
 ---
 
-<a name="additional-resources"></a>
-## 📚 7. Other additional resources
-- [ ] [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- [ ] [Repositories on GitHub Profile](https://github.com/topics/profile-readme)
-- [ ] [Sophisticated embeddable metrics](https://github.com/lowlighter/metrics)
-- [ ] [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [ ] [Awesome GitHub Profile README Template Collection](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-
----
 
 <h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
