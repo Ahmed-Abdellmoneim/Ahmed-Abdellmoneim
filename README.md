@@ -58,7 +58,10 @@
 </div>
 
 ### 📈 Total contributions and streaks
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
+  
+</div>
 
 
 <h2 align="center">⭐ :) ⭐</h2> 
