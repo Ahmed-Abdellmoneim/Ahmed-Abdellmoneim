@@ -1,5 +1,5 @@
 <a name="connect-with-me"></a>
-## ☎️ Connect with me section
+## ☎️ Connect with me
 <div align="center">
   
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abdellmoneim/).
