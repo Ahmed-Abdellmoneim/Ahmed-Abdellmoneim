@@ -1,9 +1,7 @@
-<p align="center">
-  <a name="connect-with-me"></a>
+<a name="connect-with-me"></a>
   ## ☎️ Connect with me section
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/ahmed-abdellmoneim)
-  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube" />](https://www.youtube.com/@Ahmed_Abdelmoneim)
-</p>
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-abdellmoneim)
+  [![](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ahmed_Abdelmoneim)
 
 
 <a name="languages-and-tools"></a>
