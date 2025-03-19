@@ -1,3 +1,8 @@
+<!-- Optional: Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdellmoneim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <a name="connect-with-me"></a>
 ## ☎️ Connect with me
 <div align="center">
@@ -26,7 +31,7 @@
             </td>
             <td width="80px" align="center">
                 <span><strong>HTML</strong></span><br>
-                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>CSS</strong></span><br>
@@ -62,21 +67,17 @@
     </tbody>
 </table>
 
-
 <a name="github-stats"></a>
 ### 📈 Most used languages
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdellmoneim&layout=compact"/>
-  
 </div>
 
 ### 📈 Total contributions and streaks
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdellmoneim"/>
-  
 </div>
 
-
-<h2 align="center">⭐ :) ⭐</h2> 
+<h2 align="center">⭐ :) ⭐</h2>
